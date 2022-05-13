@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>circle.png</file>
+        <file>diagonal-line.png</file>
+        <file>flame.png</file>
+        <file>floppy-disk.png</file>
+        <file>free-icon-rectangle-274397.png</file>
+        <file>iconfinder-brush-4341281_120525 (2).ico</file>
+        <file>open.png</file>
+        <file>premium-icon-grid-2762955.png</file>
+        <file>triangle.png</file>
+        <file>windowIcon_.png</file>
+        <file>windowIcon_32.png</file>
+    </qresource>
+</RCC>
